@@ -213,6 +213,7 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) - Security review skill and CLI/MCP companion for risky tool calls, prompt injection, secret redaction, and audit-friendly agent workflows.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
+- [tinfoil](https://github.com/Ivanko1608/tinfoil) - Pre-publication leak review for repos, images, PDFs and text: secrets in git history, EXIF/GPS, employer and client data, and details that combine to identify the author. Includes a stdlib-only scanner and a GitHub Action.
 
 
 
